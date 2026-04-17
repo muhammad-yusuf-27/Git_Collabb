@@ -1,4 +1,0 @@
-name : Muhammadyusuf
-surname : Mo'minjonov
-professor : Z Yusupova
-subject : Intro to IT
