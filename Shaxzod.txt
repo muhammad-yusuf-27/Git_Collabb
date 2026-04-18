@@ -2,6 +2,3 @@ Name: Shaxzod
 Surname: Akbaraliyev
 Subject: Introduction to IT
 Professor: Yusupova Zaynabhon
-
-
-are you for real?
