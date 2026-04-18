@@ -1,0 +1,4 @@
+
+surname : O'rmonov
+professor : Z Yusupova
+subject : Intro to IT
