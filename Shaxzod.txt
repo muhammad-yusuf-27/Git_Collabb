@@ -2,7 +2,3 @@ Name: Shaxzod
 Surname: Akbaraliyev
 Subject: Introduction to IT
 Professor: Yusupova Zaynabhon
-
-
-cloned
-sdfgdgfdgd
