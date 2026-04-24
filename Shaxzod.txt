@@ -3,3 +3,5 @@ Surname: Akbaraliyev
 Subject: Introduction to IT
 Professor: Yusupova Zaynabhon
 Today is my day
+Hello from teacher
+11:37am
